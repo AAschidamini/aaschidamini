@@ -37,16 +37,6 @@ Atualmente, além de focar em arquitetura front-end e excelência de código, ve
 * 🛡️ Aprofundando conhecimentos em **Segurança da Informação / DevSecOps**.
 * ⚡ Otimização de performance e arquitetura de componentes reutilizáveis.
 * 🧪 Fortalecimento de práticas de testes e CI/CD aplicados ao Front-end.
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
-
 ---
 
 ### 📫 Vamos nos conectar?
