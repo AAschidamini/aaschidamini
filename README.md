@@ -1,4 +1,4 @@
-# Olá, eu sou a Andriele Aschidamini! 👋
+# Olá, eu sou a Andri! 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Software%20Developer-41B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Software Developer" />
@@ -32,14 +32,6 @@ Minha principal especialidade é o ecossistema Front-End, com domínio em **Vue.
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
-
----
-
-### 🎯 Foco Atual & Objetivos
-* 🚀 Evolução técnica contínua e desenvolvimento de produtos digitais de alto impacto.
-* 💡 Aplicação de boas práticas ágeis, componentização e consumo eficiente de APIs.
-* 🛡️ Ampliando conhecimentos na área de **Segurança da Informação / DevSecOps**.
-* 🔍 Em busca de novos desafios que me permitam gerar impacto real através da tecnologia.
 
 ---
 
